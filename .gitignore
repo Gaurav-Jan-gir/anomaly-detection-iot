@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+.venv
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+
+# Generated images
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# LaTeX auxiliary files
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Cache
+.cache/
+*.cache
+kaggle.json
+
+# Logs
+*.log
