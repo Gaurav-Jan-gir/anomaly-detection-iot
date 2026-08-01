@@ -1,5 +1,16 @@
 # Anomaly Detection in IoT Sensors - Machine Learning Project
 
+## Intern Details
+| Field | Value |
+|-------|-------|
+| **Full Name** | Gaurav |
+| **Email** | gjangir477@gmail.com |
+| **Codtech Intern ID** | CT-2712 |
+| **Company** | Codtech IT Solutions |
+| **Project** | Anomaly Detection IoT |
+
+---
+
 ## Project Overview
 This project implements multiple anomaly detection methods to identify anomalies in IoT sensor data using real-world data from Kaggle's Pump Sensor dataset.
 
